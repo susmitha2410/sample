@@ -1,1 +1,20 @@
-hi
+cd d:
+cd y22acm478
+git init
+git remote add origin "     "
+git pull origin main
+ls
+cat >>name
+cat 
+git status
+git add filename
+git status
+git commit
+more files
+git fecth origin main
+ls
+git checkout main
+ls
+git merge master
+ls
+git push origin main
