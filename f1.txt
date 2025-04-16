@@ -1,2 +1,41 @@
-hello good 
-morning
+repository 
+cd d:
+cd y22acm478/
+git clone " "
+ls(f1)
+cd repository name
+ls
+git checkout -b fb
+cat >>f2.txt
+cat file
+status-add-status-commit-status
+git log --graph
+                    33way merge
+ADD FILE IN REPOSITORY
+git checkout main
+ls
+git pull origin main
+ls
+git merge fb -m "commit"
+git log --graph
+                     REBASE
+git checkout main
+(need to pull the files befor pulling add on more file )f3.txt
+git pull origin main[pushed to local folder]
+git log --graph 
+navigate to fb from main branch
+--------------
+git checkout fb
+(now navigate to fb from main )
+git rebase main
+(navigate to main from fb)
+--------------
+git checkout main 
+(now merge both the files)
+git merge fb 
+status
+git log --graph
+all the files are merged..push all the files
+git push origin main
+
+
